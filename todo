@@ -1,0 +1,29 @@
+frontend:-
+1)login page(similar to cryptex)
+2)login redirects to watchlist page
+3)blog page.
+4)news page(newscatcher api)\
+5) discussion page.
+6) option to download chart
+7)creation of watchlist page for user to select coins
+//////////
+8) remove delete item icon in coin summary
+
+backend:-
+1)user authentication(name,email,pass)
+2)user coin pref(watchlist)  {/watchlist routes creation ,to be redirected there after /register and a button will be present above logout to go there as well}
+3)blogs
+4) discussion page
+7)creation of watchlist page for user to select coins
+
+database:-
+1)user model(user pass,email,watchlist,{comments},{posts})
+2)posts({user},date,time,{comments},likes)
+3)comments({user},date,time)
+
+
+upcoming task:-
+
+delete linked comments from post objects and linked posts from user objects
+process json from newscatcher into a page with heading summary and readmore directing to link
+machine learning

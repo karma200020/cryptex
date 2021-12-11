@@ -1,0 +1,27 @@
+.posts{
+    padding: 1rem 2rem;
+    margin-bottom: 1rem;
+    background: #ffffff9e;
+    border-radius: 10px;
+    color: #212121;
+}
+
+.descr{
+    height: 6rem;
+    overflow: hidden;
+}
+
+.pAuthor{
+    font-size: 16px;
+    margin-bottom: 0;
+    color: rgb(55 54 54 / 76%);
+}
+
+.datep{
+    font-size: 14px;
+    color: #272626bf;
+}
+
+.LinkRM{
+    color: #00000096;
+}
