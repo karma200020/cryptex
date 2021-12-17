@@ -1,5 +1,5 @@
 # ABOUT PROJECT
-A complete portal where users can create discussions groups, get user curated daily news and track currency states using graphs for their choice of crypto currencies. Tech stack - react.js and Node.js
+A complete portal where users can create discussions groups, get user curated daily news and track currency states using graphs for their choice of crypto currencies. Tech stack - react.js and Node.js with Restful APIs.
 # Served at
 http://cryptexapp.herokuapp.com/
 
